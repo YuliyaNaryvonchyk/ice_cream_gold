@@ -1,0 +1,2240 @@
+@media screen and (max-width: 1740px) {
+
+    #reviews #reviews-container {
+        width: 1565px;
+    }
+
+    #reviews-info .swiper-wrapper .review {
+        margin: 15px 30px;
+    }
+
+    #reviews-info .swiper-wrapper .slick-center {
+        margin-right: 0;
+    }
+
+    .swiper-wrapper .slick-next {
+        right: 363px;
+    }
+
+    .swiper-wrapper .slick-prev {
+        left: 361px;
+    }
+
+    .swiper-wrapper .slick-track {
+        left: -192px;
+    }
+
+    #info-container .strawberry {
+        right: -165px;
+    }
+
+    #main .ellipse-orange-small {
+        right: -197px;
+    }
+
+}
+
+@media screen and (max-width: 1630px) {
+    #compound-container .raspberries {
+        right: -154px;
+    }
+
+    #place #place-container .blue {
+        right: -162px;
+    }
+
+}
+
+@media screen and (max-width: 1580px) {
+    #main #main-container .ellipse-violet {
+        top: 47px;
+        left: -94px;
+    }
+
+    #info-description-container .info-description #ellipse-fuchsia {
+        left: -152px;
+    }
+
+    #reviews #reviews-container {
+        max-width: 830px;
+    }
+
+    .swiper-wrapper .slick-next {
+        right: -5px;
+    }
+
+    .swiper-wrapper .slick-prev {
+        left: -5px;
+    }
+
+    #instagram #instagram-container .strawberry {
+        right: -160px;
+    }
+
+    #main #main-container .ellipse-green {
+        right: -135px;
+    }
+
+    #main #main-container .ellipse-beige {
+        right: -142px;
+    }
+
+    #stock-container .orange {
+        left: -210px;
+    }
+
+    #form-table .blue {
+        left: -115px;
+    }
+}
+
+@media screen and (max-width: 1515px) {
+    #main .ellipse-orange-small {
+        right: -86px;
+    }
+
+    #stock-container #mint {
+        left: -117px;
+    }
+
+    #place #place-container .violet {
+        left: -111px;
+    }
+
+}
+
+@media screen and (max-width: 1492px) {
+    #info-container .strawberry {
+        right: -74px;
+    }
+
+    #main #main-container .ellipse-beige {
+        right: -134px;
+    }
+
+    #main #ellipse-rose-big {
+        display: none;
+    }
+
+    #info-description-container .info-description #leaf {
+        right: -20px;
+    }
+
+    #compound-container .raspberries {
+        right: -53px;
+    }
+
+    #stock-container .violet {
+        right: -27px;
+    }
+
+    #form-images .green {
+        right: -86px;
+    }
+
+    #place #place-container .blue {
+        right: -120px;
+    }
+
+    #info-description-container .info-description #ellipse-bl {
+        left: -113px;
+    }
+
+    #stock-container #mint {
+        left: -17px;
+    }
+
+    #instagram-container #instagram-info .violet {
+        right: -88px;
+    }
+
+    #info-description-container .info-description .ellipse-orange-big {
+        right: -134px;
+    }
+
+}
+
+@media screen and (max-width: 1388px) {
+
+    #main #main-container .ellipse-green {
+        display: none;
+    }
+
+    #main #main-container .ellipse-violet {
+        left: -43px;
+    }
+
+    #main #main-container .ellipse-beige {
+        display: none;
+    }
+
+    #info-container .strawberry {
+        right: -19px;
+    }
+
+    #info-description-container .info-description .ellipse-orange-big {
+        right: -90px;
+        top: -122px;
+        width: 250px;
+    }
+
+    #info-description-container .info-description #ellipse-viol {
+        bottom: -128px;
+        right: -77px;
+        width: 250px;
+    }
+
+    #form-images .green {
+        right: 20px;
+    }
+
+    #instagram #instagram-container .strawberry {
+        right: -90px;
+    }
+
+    #place #place-container .blue {
+        right: -73px;
+        top: 0;
+    }
+
+}
+
+@media screen and (max-width: 1294px) {
+
+    #main .ellipse-orange-small {
+        right: 3px;
+        bottom: 58px;
+    }
+
+    #info {
+        overflow: hidden;
+    }
+
+    #info-description-container .info-description #ellipse-bl {
+        left: -30px;
+    }
+
+    #info-description-container .info-description #ellipse-viol {
+        bottom: -160px;
+        right: -130px;
+        width: 330px;
+    }
+
+    #info-description-container .info-description .ellipse-orange-big {
+        right: -145px;
+        top: -165px;
+        width: 330px;
+    }
+
+    #compound-container .raspberries {
+        right: 22px;
+    }
+
+    .slick-next {
+        right: -40px;
+    }
+
+    .slick-prev {
+        left: -40px;
+    }
+
+    #instagram-container #instagram-image .fuchsia {
+        display: none;
+    }
+
+    #place #place-container .green {
+        bottom: 150px;
+        right: -31px;
+    }
+
+    #place #place-container .blue {
+        right: 44px;
+    }
+
+    #place #place-container .violet {
+        left: -12px;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    #bag-container {
+        margin: 98px 15px 0 15px;
+    }
+
+    #main #main-container {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+/*1024-1199*/
+@media screen and (max-width: 1199px) {
+    #header #header-container {
+        padding: 26px 20px;
+    }
+
+    #main-list {
+        max-width: 782px;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    #main-list .main-item {
+        margin-top: 50px;
+    }
+
+    #main .ellipse-orange-small {
+        right: 67px;
+        bottom: 7px;
+        z-index: -1;
+    }
+
+    #main-info-images {
+        width: 430px;
+        height: 630px;
+        margin-left: 0;
+        z-index: -1;
+    }
+
+    #main-info-images .big-ice-cream {
+        max-width: 430px;
+        max-height: 630px;
+    }
+
+    #main-info-images #image-shadow  {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    #main-info-images #image-description #shape {
+        right: -14px;
+    }
+
+    #main-info-images #image-description #shape-shadow {
+        right: 15px;
+    }
+
+    #main-info-images #image-description #image-description-message {
+        right: 22px;
+    }
+
+    #main #main-container .ellipse-violet {
+        display: none;
+    }
+
+    #info #info-container {
+        padding: 90px 20px;
+    }
+
+    #info #info-container .ellipse-violet {
+        position: absolute;
+        top: 57px;
+        right: 188px;
+    }
+
+    #info-description-container .info-description .ellipse-green {
+        left: 336px;
+    }
+
+    #info-container .strawberry {
+        right: 29px;
+    }
+
+    #stock-container .violet {
+        right: 55px;
+    }
+
+    #stock-container .orange {
+        left: -132px;
+    }
+
+    #stock-container #mint {
+        left: 53px;
+    }
+
+    #form #form-container {
+        padding: 90px 20px;
+    }
+
+    #form #form-info {
+        flex-direction: column;
+    }
+
+    #form-info #form-table {
+        order: 2;
+        margin: 50px auto 0 auto;
+    }
+
+    #form-info #form-send{
+        order: 2;
+    }
+
+    #form-info #form-images {
+        order: 1;
+    }
+
+    #form-images #images-ice img {
+        max-width: 100%;
+    }
+
+    #form-images .green {
+        right: 711px;
+        top: 550px;
+        z-index: -1;
+    }
+
+    #instagram #instagram-container .strawberry {
+        right: -2px;
+    }
+
+    #instagram #instagram-container {
+        padding: 90px 20px;
+        overflow: hidden;
+    }
+
+    #place #place-container {
+        justify-content: center;
+    }
+
+    #place #place-container #map iframe {
+        width: 980px;
+    }
+
+    #place #place-container .green {
+        display: none;
+    }
+
+    #footer #footer-container {
+        padding: 50px 20px;
+    }
+
+    #list-cards-berries, #list-cards-classic, #list-cards-fruit, #list-cards-nuts {
+       width: 655px;
+    }
+
+}
+
+@media screen and (max-width: 930px) {
+    .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-product {
+        width: 280px;
+    }
+
+    #bag-form #bag-order {
+        width: 235px;
+    }
+
+    #bag-form #bag-list {
+        width: 575px;
+        padding-left: 30px;
+        padding-right: 50px;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    #bag-container .title {
+        padding: 30px 0 30px 20px;
+    }
+
+    #bag-form {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #bag-form #bag-list {
+        overflow-y: hidden;
+        width: 100%;
+        border-bottom: 1px solid rgb(246, 102, 158);
+        padding-right: 30px;
+        padding-bottom: 30px;
+    }
+
+    .shopping-cart-item {
+        width: 100%;
+    }
+
+    .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-product {
+        width: 440px;
+    }
+
+    #bag-form {
+        border-bottom: none;
+        padding-bottom: 0;
+        padding-top: 0;
+        height: 100%;
+    }
+
+    #bag-form #bag-order {
+        margin-left: 0;
+        text-align: center;
+        width: 381px;
+        padding-top: 34px;
+    }
+
+    #bag-form #bag-order .products-text {
+        justify-content: center;
+    }
+
+    #bag-container #bag-result {
+        flex-direction: column;
+    }
+
+    #bag-container #bag-result #bag-result-text {
+        margin-bottom: 30px;
+        margin-right: 0;
+    }
+
+    #bag-container #bag-result {
+        padding: 40px 0 30px 0;
+    }
+
+    #bag-form #message-bag {
+        width: 100%;
+    }
+
+}
+
+/*768-1023*/
+@media screen and (max-width: 1023px) {
+    #header #header-container {
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    #menu {
+        display: none;
+    }
+
+    #header-info {
+        width: 330px;
+    }
+
+    #burger {
+        display: block;
+    }
+
+    #menu ul li {
+        width: 85px;
+    }
+
+    #big-container.menu-open {
+        background-color: rgba(78, 0, 31, 0.5);
+    }
+
+    #big-container.menu-open #menu {
+        display: block;
+    }
+
+    #menu {
+        top: 0;
+        right: 0;
+        width: 227px;
+        position: fixed;
+        order: 3;
+        z-index: 99999;
+        background-color: rgb(255, 229, 240);
+        border-radius: 0 0 0 20px;
+    }
+
+    #menu ul {
+        flex-direction: column;
+        padding: 0 18px 35px 15px;
+        margin: 0;
+    }
+
+    #menu ul li {
+        text-align: left;
+        padding: 10px 0;
+    }
+
+    #menu ul li:hover {
+        color: rgb(232, 76, 137);
+    }
+
+    #menu ul li:hover a {
+        border-bottom: 1px solid;
+    }
+
+    #menu #menu-container {
+        display: block;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 40px;
+        padding: 30px 18px 0 15px;
+        z-index: 99999;
+    }
+
+    #menu #menu-container img {
+        cursor: pointer;
+    }
+
+    #menu ul li:hover .hover-menu, #menu ul li.active .hover-menu {
+        display: none;
+    }
+
+    #main #main-container #main-info #main-info-description {
+        width: 400px;
+    }
+
+    #main #main-container #main-info #main-info-description .title {
+        text-align: center;
+    }
+
+    #main #main-container #main-info #main-info-description .description {
+        width: 329px;
+        text-align: center;
+        margin: 50px auto 55px auto;
+    }
+
+    #action {
+        text-align: center;
+    }
+
+    #main-info-images .raspberries {
+        bottom: -2px;
+        left: -9px;
+    }
+
+    #info-container .strawberry {
+        top: 520px;
+    }
+
+    #info-description img:first-child {
+        max-width: 350px;
+    }
+
+    #info-description #img-girl {
+        max-width: 350px;
+    }
+
+    #info-description img:last-child {
+        max-width: 520px;
+    }
+
+    #info-description-container .info-description:last-child .description {
+        margin-right: 10px;
+    }
+
+    #compound-container .raspberries {
+        top: 67px;
+    }
+
+    #list-left .description:first-child {
+        margin-bottom: 111px;
+    }
+
+    #instagram-container #instagram-image .fuchsia {
+        display: block;
+        left: 3px;
+        top: -8px;
+        z-index: -1;
+    }
+
+    #instagram-container #instagram-info {
+        width: 445px;
+    }
+
+    #place #place-container #map iframe {
+        width: 800px;
+    }
+
+}
+
+@media screen and (max-width: 880px) {
+    .swiper-wrapper .slick-prev {
+        display: block;
+        left: 80px;
+        bottom: -81px;
+        top: auto;
+    }
+
+    .swiper-wrapper .slick-next {
+        display: block;
+        right: 80px;
+        bottom: -81px;
+        top: auto;
+    }
+
+    .swiper-wrapper .slick-dots {
+        bottom: -45px;
+    }
+
+    #instagram #instagram-container .strawberry {
+        right: 27px;
+    }
+
+    #place #place-container {
+        flex-wrap: wrap;
+    }
+
+    #place #place-container #map {
+        order: 2;
+    }
+
+    #place #place-container #map iframe {
+        width: 665px;
+    }
+
+    #place-container #place-info {
+        order: 1;
+        margin: 0 0 30px 0;
+        position: static;
+    }
+
+    #list-right .description:nth-child(2) {
+        margin-left: 103px;
+    }
+
+    #reviews-info .swiper-wrapper .review {
+        margin: 15px 30px;
+    }
+
+    #reviews #reviews-container {
+        max-width: 500px;
+    }
+
+    #reviews-container #reviews-info {
+        width: 400px;
+        margin: 0 auto;
+    }
+
+    .swiper-wrapper .slick-track {
+        left: 4px;
+    }
+
+    .swiper-wrapper .slick-track {
+        left: -1px;
+    }
+
+    #main-list {
+        max-width: 600px;
+        align-self: center;
+    }
+
+    #instagram #instagram-container {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #instagram-container #instagram-info {
+        width: 100%;
+        text-align: center;
+        order: 1;
+    }
+
+    #instagram-container #instagram-image {
+        order: 2;
+        margin-top: 40px;
+    }
+
+    #instagram-container #instagram-info .violet {
+        width: 250px;
+        right: 83px;
+        bottom: -61px;
+    }
+
+    #info-description-container .info-description .ellipse-beige {
+        display: none;
+    }
+
+    #ordering {
+        margin: 98px 15px 0 15px;
+    }
+}
+
+@media screen and (max-width: 665px) {
+    .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-product {
+        width: 300px;
+    }
+}
+
+/*580-767*/
+@media screen and (max-width: 767px) {
+    #header-info .phone {
+        flex-direction: column;
+    }
+
+    #header-info .phone:hover {
+        display: block;
+    }
+
+    #header-info .phone .phone-number {
+        display: none;
+        bottom: 0;
+        position: absolute;
+    }
+
+    #header-info .phone .phone-image {
+        margin-right: 0;
+    }
+
+    #header-info {
+        width: 200px;
+    }
+
+    .product {
+        width: 280px;
+    }
+
+    #main #main-container #main-info {
+        display: block;
+        position: relative;
+    }
+
+    #main #main-container #main-info #main-info-description .title {
+         margin-top: 0;
+    }
+
+    #main-info-images .raspberries, #main-info-images .ellipse-orange {
+        display: none;
+    }
+
+    #main #main-container #main-info #main-info-description {
+        width: 100%;
+    }
+
+    #main #main-container #main-info #main-info-description .description {
+        margin: 440px auto 37px;
+        width: 433px;
+    }
+
+    #main .ellipse-orange-small {
+        display: none;
+    }
+
+    #main-list .ellipse-orange-small {
+        display: block;
+        top: 7px;
+        right: -4px;
+    }
+
+    #main-info-images {
+        max-width: 351px;
+        position: absolute;
+        top: 135px;
+        left: 0;
+        z-index: -1;
+    }
+
+    #main-info-images .big-ice-cream {
+        max-width: 100%;
+    }
+
+    #main-info-images #image-description #shape {
+        right: -235px;
+        top: 140px;
+    }
+
+    #main-info-images #image-description #shape-shadow {
+        right: -223px;
+        top: 153px;
+    }
+
+    #main-info-images #image-description #image-description-message {
+        right: -197px;
+        top: 172px;
+    }
+
+    #main-list {
+        max-width: 529px;
+    }
+
+    #main-list .main-item {
+        width: 226px;
+    }
+
+    #main #main-container .ellipse-violet {
+        display: block;
+        left: -5px;
+        top: 168px;
+    }
+
+    #main #main-container .ellipse-green {
+        display: block;
+        right: -27px;
+        top: 236px;
+    }
+
+    #main #main-container .ellipse-beige {
+        display: block;
+        top: 293px;
+        right: -18px;
+    }
+
+    #main-list .ellipse-violet {
+        display: block;
+        left: 0;
+        bottom: 0;
+    }
+
+    #compound-list {
+        flex-direction: column;
+        align-items: center;
+        max-width: 573px;
+        margin: 0 auto;
+    }
+
+    #compound-list #list-left {
+        position: relative;
+        height: 160px;
+        width: 100%;
+    }
+
+    #compound-list #list-right {
+        position: relative;
+        height: 180px;
+        width: 100%;
+    }
+
+    #compound-list #list-center {
+        align-self: end;
+    }
+
+    #compound-list #list-left .cream {
+        margin: 0;
+        position: absolute;
+        bottom: 0;
+        left: 83px;
+    }
+
+    #compound-list #list-left .vanillin {
+        margin: 0;
+        position: absolute;
+        bottom: -553px;
+        left: 124px;
+    }
+
+    #compound-list #list-right .milk {
+        margin: 0;
+        position: absolute;
+        top: -526px;
+        left: 36px;
+    }
+
+    #compound-list #list-right .sugar {
+        margin: 0;
+        position: absolute;
+        top: -467px;
+        right: 52px;
+    }
+
+    #compound-list #list-right .yolk {
+        margin: 0;
+        position: absolute;
+        bottom: 43px;
+        right: 27px;
+    }
+
+    #compound-list #list-right .other {
+        margin: 0;
+        position: absolute;
+        top: 34px;
+        left: 36px;
+    }
+
+    #stock-container .violet {
+        display: none;
+    }
+
+    #compound-container .raspberries {
+        top: 402px;
+        width: 27px;
+        right: 530px;
+    }
+
+    #stock-container .orange {
+        display: none;
+    }
+
+    #stock-list .category .hover-stock img {
+        max-width: 100%;
+    }
+
+    #stock-list .category .hover-stock img {
+        display: none;
+    }
+
+    #stock-list .category:hover .hover-stock img {
+        display: none;
+    }
+
+    #stock #stock-list {
+        position: relative;
+        flex-direction: column;
+        margin: 0 auto;
+        width: 197px;
+    }
+
+    #stock #stock-list:before {
+        content: '';
+        border-width: 1px;
+        border-color: rgb(58, 62, 77);
+        border-style: solid;
+        border-radius: 19px;
+        width: 197px;
+        height: 36px;
+        position: absolute;
+        top: 0;
+    }
+
+    #stock #stock-list #images-arrows #arrow-next {
+        display: block;
+        position: absolute;
+        right: 15px;
+        top: 19px;
+        cursor: pointer;
+        z-index: 111;
+    }
+
+    #stock #stock-list #images-arrows #arrow-next1 {
+        display: none;
+        position: absolute;
+        right: 15px;
+        top: 17px;
+        cursor: pointer;
+        z-index: 5;
+    }
+
+    #stock #stock-list .category {
+        margin: 0;
+        padding: 10px 0 10px 20px;
+        display: none;
+        font-size: 14px;
+        order: 2;
+    }
+
+    #stock #stock-list .category:hover {
+        font-weight: bold;
+    }
+
+    #stock #stock-list .active {
+        display: block;
+        order: 1;
+    }
+
+    #list-cards-berries, #list-cards-classic, #list-cards-fruit, #list-cards-nuts {
+        width: 100%;
+    }
+
+   .product {
+       max-width: 280px;
+       margin-left: 15px;
+       margin-right: 15px;
+    }
+
+   #stock-container .slick-track {
+        left: -305px;
+    }
+
+    #info-description-container .info-description {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #info #info-container .ellipse-violet {
+        display: none;
+    }
+
+    #info-description-container .info-description #ellipse-blue {
+        bottom: 50px;
+        left: 365px;
+    }
+
+    #info-description-container .info-description .description {
+        margin-top: 30px;
+    }
+
+    #info-description img:first-child {
+        max-width: 100%;
+    }
+
+    #info-description #img-girl {
+        max-width: 100%;
+    }
+
+    #info-description-container .info-description:nth-child(2n+1) .description {
+        width: 100%;
+        margin: 30px 65px 0 65px;
+    }
+
+    #info-description-container .info-description:nth-child(2) .description {
+        width: 100%;
+        margin: 30px 65px 0 65px;
+        order: 2;
+    }
+
+    #info-description-container .info-description iframe {
+        order: 1;
+    }
+
+    #info-description-container .info-description .ellipse-orange-big {
+        right: -88px;
+        top: -166px;
+    }
+
+    #info-description-container .info-description #ellipse-rose-b {
+        bottom: 53px;
+        left: -88px;
+    }
+
+    #info-description-container .info-description:last-child .description {
+        width: 100%;
+        margin: 30px 65px 0 65px;
+        order: 1;
+    }
+
+    #info-description-container .info-description #ellipse-bl {
+        display: none;
+    }
+
+    #info-description-container .info-description .ellipse-green {
+        bottom: 111px;
+        left: 57px;
+    }
+
+    #info-description-container .info-description #ellipse-viol {
+        bottom: -43px;
+        right: -109px;
+    }
+
+    #info-container .strawberry {
+        display: none;
+        width: 27px;
+    }
+
+    #info-description-container .info-description .strawberry{
+        display: block;
+    }
+
+    #info-description-container .info-description #leaf {
+        right: 53px;
+        width: 51px;
+        bottom: 1937px;
+    }
+
+    #info-description img:last-child {
+        max-width: 100%;
+    }
+
+    #stock-container .slick-next {
+        right: 130px;
+        top: 607px;
+        z-index: 5;
+    }
+    #stock-container .slick-prev {
+        left: 130px;
+        top: 607px;
+        z-index: 5;
+    }
+
+    #stock-container #mint {
+        left: 492px;
+        top: -60px;
+        width: 52px;
+    }
+
+    #form #form-container {
+        overflow: hidden;
+    }
+
+    #form-table .blue {
+        left: 445px;
+        bottom: 1406px;
+    }
+
+    #form-images .green {
+        right: 460px;
+    }
+
+    #instagram #instagram-container .strawberry {
+        top: auto;
+        bottom: 20px;
+        width: 28px;
+    }
+
+    #instagram-container #instagram-image .orange {
+        right: -62px;
+        top: 513px;
+        z-index: -1;
+    }
+
+    #instagram-container #instagram-image .fuchsia {
+        left: -49px;
+        top: 91px;
+    }
+
+    #place #place-container .green {
+        display: block;
+        bottom: 159px;
+        right: 19px;
+    }
+
+    #place #place-container .blue {
+        right: 381px;
+    }
+
+    #place #place-container .violet {
+        display: none;
+    }
+
+    #place #place-container #map iframe {
+        width: 450px;
+    }
+
+    #footer #footer-container {
+        flex-direction: column;
+        padding: 50px 60px;
+    }
+
+    #footer-container .logo {
+        order: 1;
+        margin-bottom: 40px;
+    }
+
+    #footer #footer-container #icons {
+        order: 2;
+        margin-bottom: 40px;
+    }
+
+    #footer-container .phone {
+        order: 3;
+    }
+
+    #ordering #ordering-form form {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+}
+
+/*480-579*/
+@media screen and (max-width: 579px) {
+    #stock-container #mint {
+        left: 209px;
+        width: 52px;
+    }
+
+    #stock-container .slick-next {
+        right: 90px;
+    }
+
+    #stock-container .slick-prev {
+        left: 90px;
+    }
+
+    #main-info-images {
+        top: 147px;
+        left: -79px;
+    }
+
+    #main-info-images #image-description #shape-shadow {
+        top: 146px;
+    }
+
+    #main #main-container #main-info #main-info-description .title {
+        font-size: 40px;
+        margin-top: 0;
+    }
+
+    #main-info-images #image-description #image-description-message #image-description-title {
+        font-size: 20px;
+    }
+
+    #main-info-images #image-description #image-description-message #image-description-text {
+        font-size: 15px;
+    }
+
+    #main-info-images #image-description #image-description-message #image-description-price {
+        font-size: 15px;
+    }
+
+    #main-info-images #image-description #image-description-message {
+        width: 162px;
+        height: 162px;
+        right: -128px;
+        top: 169px;
+    }
+
+    #main-info-images #image-description #shape {
+        width: 233px;
+        right: -164px;
+        top: 138px;
+    }
+
+    #main-info-images #image-description #shape-shadow {
+        right: -176px;
+        top: 129px;
+    }
+
+    #main #main-container #main-info #main-info-description .description {
+        margin-top: 485px;
+    }
+
+    #main-list {
+        flex-direction: column;
+        max-width: 100%;
+        align-items: center;
+        overflow: hidden;
+    }
+
+    #main-list .main-item {
+        width: 266px;
+    }
+
+    #reviews #reviews-container {
+        max-width: 100%;
+    }
+
+    #compound-container .raspberries {
+        right: 455px;
+    }
+
+    #form-offer input, #form-offer #offer {
+        width: 100%;
+    }
+
+    #reviews #reviews-container .title {
+        font-size: 40px;
+    }
+
+    #form-images .green {
+        right: 416px;
+        top: 401px;
+    }
+
+    #form-images #images-ice {
+        width: 100%;
+    }
+
+    #form-images #question img {
+        height: 107px;
+    }
+
+    #form-images #images-ice {
+        max-width: 436px;
+    }
+
+    #form-images #images-ice #ice1 {
+        width: 145px;
+        top: 92px;
+        left: 24px;
+    }
+
+    #form-images #images-ice #ice2 {
+        height: 180px;
+        top: 25px;
+        left: 95px;
+    }
+
+    #form-images #images-ice #ice3 {
+        height: 190px;
+    }
+
+    #form-images #images-ice #ice4 {
+        height: 186px;
+        top: 18px;
+        right: 95px;
+    }
+
+    #form-images #images-ice #ice5 {
+        right: 12px;
+        top: 76px;
+        width: 145px;
+    }
+
+    #form .title {
+        font-size: 40px;
+    }
+
+    #instagram #instagram-container .strawberry {
+        right: 147px;
+    }
+
+    #instagram-container .title {
+        font-size: 40px;
+    }
+
+    #info .title {
+        font-size: 40px;
+    }
+
+    #place-info-container .title {
+        font-size: 40px;
+    }
+
+    #bag-container .title {
+        font-size: 35px;
+    }
+
+    .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-title {
+        font-size: 18px;
+    }
+
+    .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-product .weight {
+        font-size: 14px;
+    }
+
+    .shopping-cart-item-description-product .shopping-cart-item-price {
+        font-size: 18px;
+    }
+
+    .shopping-cart-item .delete-product img{
+        width: 16px;
+        height: 16px;
+    }
+
+    #bag-form #bag-order #bag-order-title {
+        font-size: 25px;
+    }
+
+    #bag-form #bag-order #bag-order-info {
+        margin-top: 20px;
+    }
+
+    #bag-container #bag-result #bag-result-text {
+        font-size: 18px;
+    }
+
+    .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-product {
+        width: 230px;
+    }
+
+    #bag-form #bag-order .products-text {
+        margin-bottom: 10px;
+    }
+
+    #bag-container #bag-result .total-sum {
+        font-size: 18px;
+    }
+
+    #bag-form #message-bag {
+        font-size: 35px;
+    }
+
+    #ordering #ordering-title-button {
+        padding-left: 15px;
+        font-size: 10px;
+    }
+
+    #ordering #ordering-title .title {
+        font-size: 35px;
+        margin: 30px 25px 30px 15px;
+    }
+
+    #ordering #ordering-form #data {
+        margin-right: 0;
+    }
+
+    #thanks-message {
+        margin: 98px 15px 0 15px;
+        padding: 30px 15px 80px 15px;
+    }
+
+    #thanks-message .title {
+        font-size: 35px;
+        padding-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    #thanks-message .pink {
+        right: -50px;
+        top: -65px;
+        width: 190px;
+        height: 190px;
+    }
+
+}
+
+@media screen and (max-width: 518px) {
+    #list-center #list-title {
+        font-size: 50px;
+        left: -122px;
+    }
+
+    #list-center #list-title:before {
+        width: 200px;
+        height: 200px;
+    }
+
+    #list-center #milk {
+        width: 130px;
+    }
+
+    #list-center #cow {
+        width: 300px;
+    }
+
+    #list-center #shadow-milk {
+        left: -46px;
+    }
+
+    #compound-list #list-right .milk {
+        top: -482px;
+    }
+
+    #compound-list #list-right .sugar {
+        top: -411px;
+    }
+
+    #compound-list #list-left .vanillin {
+        bottom: -514px;
+    }
+
+    #form-info #form-send, #form-info #form-send .title {
+        width: 100%;
+    }
+
+}
+
+/*320-479*/
+@media screen and (max-width: 479px) {
+    #header-info .phone .phone-number {
+    bottom: -14px;
+    font-size: 12px;
+    }
+
+    #header #header-container {
+        padding-bottom: 0;
+    }
+
+    #header-info {
+        width: 120px;
+    }
+
+    #header-container .logo img {
+        width: 36px;
+    }
+
+    #header-container .logo .logo-title {
+        font-size: 16px;
+    }
+
+    #header-info #bag img {
+        width: 18px;
+    }
+
+    #bag #bag-items {
+        width: 12px;
+        height: 12px;
+        right: -5px;
+        bottom: 1px;
+    }
+
+    #bag #bag-items .number-bag {
+        position: absolute;
+        top: 2px;
+        left: 5px;
+        font-size: 6px;
+    }
+
+    #bag-form #bag-order .products-text {
+        font-size: 16px;
+    }
+
+    #bag-container #bag-result .total-sum {
+        font-size: 16px;
+    }
+
+    #header-info .phone .phone-image {
+        width: 28px;
+        height: 28px;
+    }
+
+    #header-info .phone .phone-image img {
+        width: 13px;
+        height: 13px;
+        top: 7px;
+        left: 7px;
+    }
+
+    #big-container .ellipse-rose {
+        top: -237px;
+        right: -267px;
+    }
+
+    #main #main-container #main-info #main-info-description .title {
+        font-size: 26px;
+    }
+
+    #main #main-container #main-info #main-info-description .description {
+        font-size: 14px;
+        width: 303px;
+    }
+
+    #main-info-images #image-description #image-description-message #image-description-title {
+        font-size: 18px;
+        line-height: 1;
+        margin-top: 8px;
+    }
+
+    #main-info-images #image-description #image-description-message #image-description-text {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+
+    #main-info-images #image-description #image-description-message #image-description-price {
+        font-size: 14px;
+        margin-top: 16px;
+    }
+
+    #main-info-images #image-description #image-description-message {
+        width: 151px;
+        height: 151px;
+        right: -124px;
+        top: 173px;
+    }
+
+    #main-info-images #image-description #shape {
+        width: 221px;
+        right: -158px;
+        top: 142px;
+    }
+
+    #main-info-images #image-description #shape-shadow {
+        right: -163px;
+        top: 148px;
+        width: 200px;
+    }
+
+    #main-list .ellipse-orange-small {
+        top: 177px;
+        right: -11px;
+        width: 42px;
+    }
+
+    #main-info-images {
+        top: 107px;
+        left: -107px;
+    }
+
+    #main-info-images .big-ice-cream {
+        max-width: 267px;
+    }
+
+    #main-info-images #image-shadow {
+        top: 20px;
+        left: 22px;
+        max-width: 281px;
+    }
+
+    #main-info-images #image-description #shape {
+        width: 162px;
+        right: -33px;
+        top: 118px;
+    }
+
+    #main-info-images #image-description #shape-shadow {
+        right: -33px;
+        top: 113px;
+        width: 155px;
+    }
+
+    #main-info-images #image-description #image-description-message {
+        width: 118px;
+        height: 118px;
+        right: -11px;
+        top: 138px;
+    }
+
+    #main #main-container .ellipse-green {
+        width: 41px;
+        height: 41px;
+        right: -10px;
+        top: 236px;
+    }
+
+    #main #main-container .ellipse-beige {
+        width: 22px;
+        height: 22px;
+        top: 261px;
+        right: -9px;
+    }
+
+    #main #main-container #main-info #main-info-description .description {
+        margin-top: 381px;
+    }
+
+    #action .btn {
+        width: 280px;
+    }
+
+    #main #main-container .ellipse-violet {
+        display: block;
+        left: -7px;
+        top: 125px;
+        width: 32px;
+    }
+
+    #info-description-container .info-description #leaf {
+        right: -15px;
+        bottom: 2093px;
+    }
+
+    #info-description-container .info-description #ellipse-blue {
+        bottom: 146px;
+        left: 136px;
+    }
+
+    #info-description-container .info-description .ellipse-orange-big {
+        right: -141px;
+        top: -141px;
+    }
+
+    #info-description-container .info-description #ellipse-rose-b {
+        bottom: 201px;
+        left: -250px;
+    }
+
+    #info-description-container .info-description:nth-child(2) .description {
+        margin: 30px 0 0 12px;
+    }
+
+    #info-description-container .info-description:nth-child(2n+1) .description {
+        margin: 30px 0 0 12px;
+    }
+
+    #info-description-container .info-description .ellipse-green {
+        bottom: 137px;
+        left: -22px;
+        width: 33px;
+        height: 33px;
+    }
+
+    #info-description-container .info-description .description::after {
+        font-size: 90px;
+    }
+
+    #info-description-container .info-description:last-child .description {
+        margin: 30px 0 0 12px;
+    }
+
+    #info-description-container .info-description .description {
+        font-size: 16px;
+    }
+
+    .product {
+        padding: 30px 20px;
+        max-width: 178px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .product .product-image {
+        height: 100px;
+    }
+
+    .product .product-image img {
+        width: 80%;
+    }
+
+    .product .product-title {
+        font-size: 16px;
+        height: 42px;
+    }
+
+    .product .product-text {
+        font-size: 13px;
+        height: 87px;
+    }
+
+    .product .product-property {
+        font-size: 13px;
+    }
+
+    .product .product-properties .product-quantity {
+        width: 62px;
+    }
+
+    .product .product-price .price {
+        font-size: 16px;
+    }
+
+    #stock-container .slick-next {
+        right: 30px;
+        top: 522px;
+    }
+
+    #stock-container .slick-prev{
+        left: 30px;
+        top: 522px;
+    }
+
+    .product .product-price .product-bag {
+        width: 50px;
+        height: 50px;
+    }
+
+    .product .product-price .product-bag img {
+        width: 22px;
+    }
+
+    #stock-container .slick-track {
+         left: -200px;
+    }
+
+    .slick-dots li button:before {
+        width: 15px;
+        height: 15px;
+    }
+
+    .slick-next, .slick-prev {
+        width: 40px;
+        height: 40px;
+    }
+
+    #info-container .strawberry {
+        top: 378px;
+        right: 55px;
+    }
+
+    #info .title {
+        font-size: 35px;
+        line-height: 1;
+    }
+
+    #list-left .description, #list-right .description {
+        font-size: 16px;
+    }
+
+    #list-right .description .circle, #list-left .description .circle {
+
+        left: -17px;
+        top: -4px;
+        width: 30px;
+        height: 30px;
+    }
+
+    #compound-list #list-right .milk {
+        top: -449px;
+        left: 16px;
+    }
+
+    #compound-list #list-right .other {
+        left: 16px;
+    }
+
+    #compound-list #list-right .sugar {
+        right: 16px;
+        top: -378px;
+    }
+
+    #compound-list #list-left .cream {
+        bottom: 15px;
+        left: 44px;
+    }
+
+    #list-right .description:first-child {
+        width: 188px;
+    }
+
+    #list-right .description:last-child {
+        width: 222px;
+    }
+
+    #compound-list #list-left .vanillin {
+        left: 63px;
+        bottom: -473px;
+    }
+
+    #compound-list {
+        max-width: 345px;
+    }
+
+    #list-center #cow {
+        width: 212px;
+    }
+
+    #list-center #milk {
+        width: 93px;
+        left: -4px;
+        bottom: -19px;
+    }
+
+    #list-center #shadow-milk {
+        width: 80px;
+        left: -12px;
+        bottom: -27px;
+    }
+
+    #list-center #list-title {
+        font-size: 38px;
+        left: -79px;
+        bottom: 70px;
+        top: 112px;
+    }
+
+    #list-center #list-title:before {
+        width: 152px;
+        height: 152px;
+    }
+
+    #compound-list #list-center {
+        margin: 40px 0;
+        align-self: end;
+    }
+
+    #compound-container .raspberries {
+        right: 264px;
+    }
+
+    #form-images #images-ice #ice1 {
+        width: 107px;
+        top: 63px;
+        left: 0;
+    }
+
+    #form-images #images-ice #ice2 {
+        height: 127px;
+        top: 15px;
+        left: 52px;
+    }
+
+    #form-images #images-ice #ice3 {
+        height: 134px;
+    }
+
+    #form-images #images-ice #ice4 {
+        height: 135px;
+        top: 5px;
+        right: 55px;
+    }
+
+    #form-images #images-ice #ice5 {
+        right: 0;
+        top: 49px;
+        width: 110px;
+    }
+
+    #form-info #form-table {
+        width: 100%;
+        padding: 30px 15px;
+    }
+
+    #form .title {
+        font-size: 35px;
+    }
+
+    #form-table .description {
+        width: 100%;
+        font-size: 12px;
+    }
+
+    #form-offer #form-button .btn-send {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    #form-offer input, #form-offer #offer {
+        font-size: 16px;
+    }
+
+    #form-images .green {
+        top: 335px;
+        right: 245px;
+    }
+
+    #form-offer input, #form-offer #offer {
+        padding: 20px;
+    }
+
+    #form-offer .form-text-name, #form-offer .form-text-phone, #form-offer .form-text-offer {
+        margin-bottom: 0;
+        margin-left: 20px;
+    }
+
+    #form-table .orange {
+        right: -92px;
+        bottom: -111px;
+    }
+
+    #form-images {
+        width: 282px;
+        margin: 0 auto;
+    }
+
+    #compound-container .raspberries {
+        right: 237px;
+    }
+
+    #reviews #reviews-container .title {
+        font-size: 35px;
+    }
+
+    #reviews-info .review .review-text .full-review {
+        margin-top: 15px;
+    }
+
+    #reviews-container #reviews-info {
+        width: 320px;
+    }
+
+    #reviews-info .swiper-wrapper .review {
+        padding: 30px 15px;
+        margin: 15px 20px;
+        width: 300px;
+    }
+
+    #reviews-info .review .review-text {
+        font-size: 16px;
+        padding: 25px 10px 25px 20px;
+    }
+
+    #reviews-info .review .review-title span {
+        font-size: 16px;
+    }
+
+    .swiper-wrapper .slick-prev {
+        left: 42px;
+        bottom: -72px;
+    }
+
+    .swiper-wrapper .slick-next {
+        right: 42px;
+        bottom: -72px;
+    }
+
+    #instagram-container .title {
+        font-size: 35px;
+        line-height: 1;
+        width: 200px;
+        margin: 0 auto 20px auto;
+    }
+
+    #instagram-container #instagram-info .violet {
+        width: 334px;
+        right: -65px;
+        bottom: -63px;
+    }
+
+    #instagram #instagram-container .strawberry {
+        right: 77px;
+    }
+
+    #instagram-container #instagram-image #instagram-page {
+        width: 195px;
+        height: 381px;
+        background-size: contain;
+    }
+
+    #instagram-container #instagram-image #square {
+        width: 171px;
+        height: 367px;
+        background-size: contain;
+    }
+
+    #instagram-container #instagram-image .fuchsia {
+        left: -40px;
+        top: 42px;
+    }
+
+    #place #place-container .blue {
+        right: 244px;
+        top: 28px;
+        z-index: -1;
+    }
+
+    #place-info-container .title {
+        font-size: 34px;
+    }
+
+    #place-info-container {
+        padding: 40px 15px;
+    }
+
+    #place-info-container #delivery {
+        width: 100%;
+    }
+
+    #place #place-container #map iframe {
+        width: 100%;
+        height: 218px;
+    }
+
+    #place-container #place-info {
+        margin: 0 15px 30px 15px;
+    }
+
+    #place-info-container #delivery span {
+        font-size: 12px;
+    }
+
+    #place-info-container #pickup span {
+        font-size: 16px;
+    }
+
+    #place-info-container #pickup ul li {
+        font-size: 16px;
+    }
+
+    #place-info-container .description {
+        font-size: 16px;
+    }
+
+    #place-info-container #pickup ul li::before {
+        margin-right: 11px;
+    }
+
+    #place-info-container .description img {
+        margin-right: 11px;
+    }
+
+    #bag-container .title {
+        font-size: 30px;
+    }
+
+    .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-title {
+        font-size: 14px;
+    }
+
+    .shopping-cart-item-description-product .shopping-cart-item-price {
+        font-size: 18px;
+    }
+
+    #bag-container #bag-result #bag-result-text {
+        font-size: 16px;
+    }
+
+    #bag-form #bag-list {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-product {
+        flex-wrap: wrap;
+        width: 140px;
+    }
+
+    .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-product .weight {
+        order: 1;
+    }
+
+    .shopping-cart-item-description-product .product-quantity {
+        order: 2;
+        width: 65px;
+    }
+
+    .shopping-cart-item-description-product .shopping-cart-item-price {
+        order: 3;
+    }
+
+    .shopping-cart-item .shopping-cart-item-images {
+        margin-right: 14px;
+    }
+
+    .shopping-cart-item .shopping-cart-item-images img {
+        width: 90px;
+    }
+
+    #bag-form #bag-order {
+        width: 282px;
+    }
+
+    #bag-container #bag-result #bag-action {
+        padding: 0 15px;
+    }
+
+    #bag-container #bag-result #bag-button {
+        width: 260px;
+        text-align: center;
+    }
+
+    #bag-container #bag-result #bag-button .active-image img {
+        left: 20px;
+    }
+
+    #bag-form #bag-order .products-text:last-child {
+        margin-bottom: 20px;
+    }
+
+    #bag-form #message-bag {
+        font-size: 30px;
+    }
+
+    #ordering #ordering-title .title {
+        font-size: 30px;
+    }
+
+    #ordering #ordering-form {
+        padding: 30px 15px;
+    }
+
+    #ordering #ordering-form .order-form-title {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    #ordering #ordering-form #data select {
+        width: 100%;
+        padding: 15px 36px 15px 30px;
+        font-size: 14px;
+    }
+
+    #ordering #ordering-form #data input {
+        width: 100%;
+        padding: 15px 36px 15px 30px;
+        font-size: 14px;
+    }
+
+    .select:after {
+        right: -7px;
+        top: 23px;
+    }
+
+    .select {
+        width: 100%;
+    }
+
+    #ordering #ordering-form #data {
+        width: 100%;
+    }
+
+    #ordering-form #data .form-order-name, #ordering-form #data .form-order-phone, #ordering-form #data .select .form-place-order {
+        margin-bottom: 0;
+        font-size: 10px;
+    }
+
+    #ordering #ordering-form #pay {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #ordering #ordering-form #pay .form-radio label {
+        font-size: 16px;
+    }
+
+    #ordering #ordering-form #pay .form-radio input[type='radio']+label:before, #ordering #ordering-form #pay .form-radio input[type='radio']:not(:checked) + label:before {
+        width: 20px;
+        height: 20px;
+    }
+
+    #ordering #ordering-form #pay .form-radio input[type='radio']:checked+label:after {
+        left: 5px;
+        top: 4px;
+    }
+
+    #ordering #ordering-button {
+        width: 256px;
+    }
+
+    #ordering-button {
+        margin: 30px auto;
+    }
+
+    #thanks-message .title {
+        font-size: 30px;
+        width: 197px;
+        margin: 0 auto 20px auto;
+    }
+
+    #thanks-message #thanks-action #thanks-button {
+        font-size: 16px;
+        padding-left: 55px;
+    }
+
+    #thanks-message .text {
+        margin-bottom: 25px;
+        font-size: 16px;
+        max-width: 245px;
+    }
+
+}
