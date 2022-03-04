@@ -156,19 +156,12 @@ $(document).ready(() => {
         ]
     });
 
-    let main = $('#main');
-    let headerInfo = $('#header-info');
-
     $('#burger').click(() => {
-        $('#big-container').toggleClass('menu-open');
-        main.css('z-index', '-1');
-        headerInfo.css('z-index', '-1');
+        $('#container-menu').show();
     });
 
-    $('#menu ul li, #menu-container img').click(() => {
-        $('#big-container').removeClass('menu-open');
-        main.css('z-index', '1');
-        headerInfo.css('z-index', '1');
+    $('#menu-duplicate ul li, #menu-container-duplicate img').click(() => {
+        $('#container-menu').hide();
     });
 
     $('.full-review').click((event) => {
