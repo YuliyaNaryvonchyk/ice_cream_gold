@@ -763,14 +763,18 @@
         flex-direction: column;
     }
 
-    #header-info .phone:hover {
-        display: block;
-    }
+    /*#header-info .phone:hover .phone-number {*/
+    /*    display: block;*/
+    /*}*/
 
     #header-info .phone .phone-number {
         display: none;
         bottom: 0;
         position: absolute;
+    }
+
+    #header-info .phone .phone-number.phoneShow {
+        display: block;
     }
 
     #header-info .phone .phone-image {

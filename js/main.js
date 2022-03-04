@@ -635,7 +635,7 @@ $(document).ready(() => {
             let key = localStorage.key(i);
             let objArray = JSON.parse(localStorage.getItem(key));
             for (let i = 0; i < objArray.length; i++) {
-                obj = objArray[i].productTitle + ' (' +  objArray[i].productPrice + ' руб.'  +')' + ' - ' + objArray[i].productCount + ' шт.';
+                obj = objArray[i].productTitle + ' (' + objArray[i].productPrice + ' руб.' + ')' + ' - ' + objArray[i].productCount + ' шт.';
                 console.log(obj);
             }
         }
@@ -654,6 +654,17 @@ $(document).ready(() => {
             }
         })
     }
+
+    let X = false;
+    $('#header-info .phone .phone-image').click((event) => {
+        if ($('#header-info .phone .phone-number').css('display') === 'none') {
+            $('#header-info .phone .phone-number').addClass('phoneShow');
+            X = true;
+        } else {
+            $('#header-info .phone .phone-number').removeClass('phoneShow');
+            X = false;
+        }
+    });
 
 });
 
