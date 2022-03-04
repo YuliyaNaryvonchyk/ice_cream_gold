@@ -560,15 +560,7 @@
     }
 
     #menu-duplicate ul li:hover {
-        color: #e84c89;
-    }
-
-    #menu-duplicate ul li:hover {
         color: rgb(232, 76, 137);
-    }
-
-    #menu-duplicate ul li:hover a {
-        border-bottom: 1px solid;
     }
 
     #menu-duplicate #menu-container-duplicate {
