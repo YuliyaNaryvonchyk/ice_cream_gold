@@ -529,14 +529,6 @@
         background-color: rgb(78, 0, 31);
     }
 
-    #big-container.menu-open {
-        background-color: rgba(78, 0, 31, 0.5);
-    }
-
-    #big-container.menu-open #menu {
-        display: block;
-    }
-
     #menu-duplicate {
         top: 0;
         right: 0;

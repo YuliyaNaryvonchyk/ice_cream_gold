@@ -327,7 +327,6 @@ $(document).ready(() => {
             $('#ordering').hide();
             $('#thanks-message').show();
             sendLocalStorage();
-            // sendFormOrder();
             localStorage.clear();
 
             $('.number').text(localStorage.length);
@@ -427,7 +426,7 @@ $(document).ready(() => {
         $('#bag-container').show();
         $('#thanks-message').hide();
         $('#ordering').hide();
-        createEl();//создание элемента в корзине
+        createEl();
 
         sendLocalStorage();
     });
@@ -548,8 +547,6 @@ $(document).ready(() => {
 
     cartSum.text(sumProd);
 
-    // cartSumCost.text(sumCost + ' руб');
-
     function plusBtn() {
         let basket = JSON.parse(localStorage.getItem('cart'));
         let basketItem = $(this).parents('.shopping-cart-item').data('id');
@@ -605,7 +602,6 @@ $(document).ready(() => {
             }
         }
         localStorage.setItem('cart', JSON.stringify(basket));
-        // sumCart();
         createEl();
     }
 
@@ -636,14 +632,12 @@ $(document).ready(() => {
             let objArray = JSON.parse(localStorage.getItem(key));
             for (let i = 0; i < objArray.length; i++) {
                 obj = objArray[i].productTitle + ' (' + objArray[i].productPrice + ' руб.' + ')' + ' - ' + objArray[i].productCount + ' шт.';
-                console.log(obj);
             }
         }
 
         $.ajax({
             type: 'post',
             url: 'mail.php',
-            // dataType: 'html',
             data: {
                 name: $('#order-name').val(),
                 phone: $('#order-phone').val(),
@@ -666,18 +660,19 @@ $(document).ready(() => {
         }
     });
 
-});
-
-$(window).on('scroll', function () {
-    if ($(this).scrollTop() > 100) {
-        if ($('#circle').is(':hidden')) {
-            $('#circle').css({opacity: 1}).fadeIn('slow');
+    $(window).on('scroll', function () {
+        if ($(this).scrollTop() > 100) {
+            if ($('#circle').is(':hidden')) {
+                $('#circle').css({opacity: 1}).fadeIn('slow');
+            }
+        } else {
+            $('#circle').stop(true, false).fadeOut('fast');
         }
-    } else {
-        $('#circle').stop(true, false).fadeOut('fast');
-    }
+    });
+
+    $('#circle').on('click', function () {
+        $('html, body').stop().animate({scrollTop: 0}, 300);
+    });
+
 });
 
-$('#circle').on('click', function () {
-    $('html, body').stop().animate({scrollTop: 0}, 300);
-});
