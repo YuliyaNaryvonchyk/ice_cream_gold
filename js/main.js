@@ -433,9 +433,9 @@ $(document).ready(() => {
 
     //--------подсчёт количества позиций и общая стоимость------
     let cartSumCost = $('.total-sum');
+    let count = $('.number-bag');
 
     function sumCart() {
-        let count = $('.number-bag');
         let cost = $('.cart-sum');
         let Array = JSON.parse(localStorage.getItem('cart'));
 

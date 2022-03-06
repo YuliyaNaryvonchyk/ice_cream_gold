@@ -170,6 +170,8 @@ body {
     font-size: 10px;
     font-family: "Nunito-Regular", sans-serif;
     color: rgb(39, 47, 83);
+    width: 20px;
+    text-align: center;
 }
 
 .phone {
@@ -532,7 +534,6 @@ button.btn {
 
 #main-list .main-item .description {
     font-size: 14px;
-    /*line-height: 1.357;*/
 }
 
 #info #info-container {
