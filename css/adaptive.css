@@ -5,15 +5,11 @@
     }
 
     #reviews-info .swiper-wrapper .review {
-        margin: 15px 30px;
-    }
-
-    #reviews-info .swiper-wrapper .slick-center {
-        margin-right: 0;
+        margin: 20px 30px;
     }
 
     .swiper-wrapper .slick-next {
-        right: 363px;
+        right: 335px;
     }
 
     .swiper-wrapper .slick-prev {
@@ -55,16 +51,24 @@
         left: -152px;
     }
 
+    .swiper-wrapper .slick-track {
+        left: -196px;
+    }
+
     #reviews #reviews-container {
-        max-width: 830px;
+        width: 790px;
+    }
+
+    #reviews-info .swiper-wrapper .review {
+        margin: 20px;
     }
 
     .swiper-wrapper .slick-next {
-        right: -5px;
+        right: -35px;
     }
 
     .swiper-wrapper .slick-prev {
-        left: -5px;
+        left: -35px;
     }
 
     #instagram #instagram-container .strawberry {
@@ -265,6 +269,14 @@
         padding-right: 20px;
         padding-left: 20px;
     }
+
+    #compound-container {
+        margin-left: 20px;
+    }
+
+    #list-right .description:nth-child(2) {
+        margin-right: 20px;
+    }
 }
 
 /*1024-1199*/
@@ -301,7 +313,7 @@
         max-height: 630px;
     }
 
-    #main-info-images #image-shadow  {
+    #main-info-images #image-shadow {
         max-width: 100%;
         max-height: 100%;
     }
@@ -340,6 +352,10 @@
         right: 29px;
     }
 
+    #list-left .description:last-child {
+        margin-left: 0;
+    }
+
     #stock-container .violet {
         right: 55px;
     }
@@ -365,7 +381,7 @@
         margin: 50px auto 0 auto;
     }
 
-    #form-info #form-send{
+    #form-info #form-send {
         order: 2;
     }
 
@@ -409,9 +425,19 @@
     }
 
     #list-cards-berries, #list-cards-classic, #list-cards-fruit, #list-cards-nuts {
-       width: 655px;
+        width: 655px;
     }
 
+}
+
+@media screen and (max-width: 995px) {
+    #list-right .description:first-child {
+        right: 65px;
+    }
+
+    #list-right .description:last-child {
+        right: 45px;
+    }
 }
 
 @media screen and (max-width: 930px) {
@@ -660,6 +686,27 @@
         bottom: -45px;
     }
 
+    #list-right .description:nth-child(3) {
+        margin-left: 45px;
+    }
+
+    #list-left .description:first-child {
+        margin-bottom: 70px;
+    }
+
+    #list-right .description:first-child {
+        right: 18px;
+    }
+
+    #list-right .description:nth-child(2) {
+        margin-left: -34px;
+        margin-bottom: 90px;
+    }
+
+    #list-right .description:last-child {
+        right: 12px;
+    }
+
     #instagram #instagram-container .strawberry {
         right: 27px;
     }
@@ -680,10 +727,6 @@
         order: 1;
         margin: 0 0 30px 0;
         position: static;
-    }
-
-    #list-right .description:nth-child(2) {
-        margin-left: 103px;
     }
 
     #reviews-info .swiper-wrapper .review {
@@ -743,6 +786,16 @@
     }
 }
 
+@media screen and (max-width: 825px) {
+    #list-right .description:first-child {
+        right: -6px;
+    }
+
+    #list-right .description:last-child {
+        right: -6px;
+    }
+}
+
 @media screen and (max-width: 665px) {
     .shopping-cart-item .shopping-cart-item-description .shopping-cart-item-description-product {
         width: 300px;
@@ -754,10 +807,6 @@
     #header-info .phone {
         flex-direction: column;
     }
-
-    /*#header-info .phone:hover .phone-number {*/
-    /*    display: block;*/
-    /*}*/
 
     #header-info .phone .phone-number {
         display: none;
@@ -787,7 +836,7 @@
     }
 
     #main #main-container #main-info #main-info-description .title {
-         margin-top: 0;
+        margin-top: 0;
     }
 
     #main-info-images .raspberries, #main-info-images .ellipse-orange {
@@ -872,11 +921,16 @@
         bottom: 0;
     }
 
+    #compound-container {
+        margin-left: 0px;
+    }
+
     #compound-list {
         flex-direction: column;
         align-items: center;
         max-width: 573px;
         margin: 0 auto;
+
     }
 
     #compound-list #list-left {
@@ -905,7 +959,7 @@
     #compound-list #list-left .vanillin {
         margin: 0;
         position: absolute;
-        bottom: -553px;
+        bottom: -585px;
         left: 124px;
     }
 
@@ -926,14 +980,14 @@
     #compound-list #list-right .yolk {
         margin: 0;
         position: absolute;
-        bottom: 43px;
+        bottom: 35px;
         right: 27px;
     }
 
     #compound-list #list-right .other {
         margin: 0;
         position: absolute;
-        top: 34px;
+        top: 65px;
         left: 36px;
     }
 
@@ -1021,13 +1075,13 @@
         width: 100%;
     }
 
-   .product {
-       max-width: 280px;
-       margin-left: 15px;
-       margin-right: 15px;
+    .product {
+        max-width: 280px;
+        margin-left: 15px;
+        margin-right: 15px;
     }
 
-   #stock-container .slick-track {
+    #stock-container .slick-track {
         left: -305px;
     }
 
@@ -1107,7 +1161,7 @@
         width: 27px;
     }
 
-    #info-description-container .info-description .strawberry{
+    #info-description-container .info-description .strawberry {
         display: block;
     }
 
@@ -1126,6 +1180,7 @@
         top: 607px;
         z-index: 5;
     }
+
     #stock-container .slick-prev {
         left: 130px;
         top: 607px;
@@ -1144,7 +1199,7 @@
 
     #form-table .blue {
         left: 445px;
-        bottom: 1406px;
+        bottom: 1373px;
     }
 
     #form-images .green {
@@ -1291,7 +1346,7 @@
     }
 
     #compound-container .raspberries {
-        right: 455px;
+        right: 380px;
     }
 
     #form-offer input, #form-offer #offer {
@@ -1383,7 +1438,7 @@
         font-size: 18px;
     }
 
-    .shopping-cart-item .delete-product img{
+    .shopping-cart-item .delete-product img {
         width: 16px;
         height: 16px;
     }
@@ -1494,8 +1549,8 @@
 /*320-479*/
 @media screen and (max-width: 479px) {
     #header-info .phone .phone-number {
-    bottom: -14px;
-    font-size: 12px;
+        bottom: -14px;
+        font-size: 12px;
     }
 
     #header #header-container {
@@ -1528,8 +1583,8 @@
     #bag #bag-items .number-bag {
         position: absolute;
         top: 2px;
-        left: 5px;
         font-size: 6px;
+        width: 13px;
     }
 
     #bag-form #bag-order .products-text {
@@ -1552,7 +1607,7 @@
         left: 7px;
     }
 
-    #big-container .ellipse-rose {
+    #header #header-container .ellipse-rose {
         top: -237px;
         right: -267px;
     }
@@ -1609,7 +1664,7 @@
 
     #main-info-images {
         top: 107px;
-        left: -107px;
+        left: -16px;
     }
 
     #main-info-images .big-ice-cream {
@@ -1759,7 +1814,7 @@
         top: 522px;
     }
 
-    #stock-container .slick-prev{
+    #stock-container .slick-prev {
         left: 30px;
         top: 522px;
     }
@@ -1774,7 +1829,7 @@
     }
 
     #stock-container .slick-track {
-         left: -200px;
+        left: -200px;
     }
 
     .slick-dots li button:before {
@@ -1816,6 +1871,11 @@
 
     #compound-list #list-right .other {
         left: 16px;
+        top: 15px;
+    }
+
+    #compound-list #list-right .yolk {
+        bottom: 55px;
     }
 
     #compound-list #list-right .sugar {
@@ -1958,7 +2018,8 @@
     }
 
     #compound-container .raspberries {
-        right: 237px;
+        top: 360px;
+        right: 266px;
     }
 
     #reviews #reviews-container .title {
@@ -2207,12 +2268,12 @@
         font-size: 16px;
     }
 
-    #ordering #ordering-form #pay .form-radio input[type='radio']+label:before, #ordering #ordering-form #pay .form-radio input[type='radio']:not(:checked) + label:before {
+    #ordering #ordering-form #pay .form-radio input[type='radio'] + label:before, #ordering #ordering-form #pay .form-radio input[type='radio']:not(:checked) + label:before {
         width: 20px;
         height: 20px;
     }
 
-    #ordering #ordering-form #pay .form-radio input[type='radio']:checked+label:after {
+    #ordering #ordering-form #pay .form-radio input[type='radio']:checked + label:after {
         left: 5px;
         top: 4px;
     }
@@ -2242,4 +2303,11 @@
         max-width: 245px;
     }
 
+}
+
+/*320-479*/
+@media screen and (max-width: 395px) {
+    #main-info-images {
+        left: -107px;
+    }
 }
