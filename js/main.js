@@ -181,44 +181,45 @@ $(document).ready(() => {
         }
     });
 
-        let SList = $('#stock #stock-list');
-        let StockList = SList.css('flex-direction');
-        let Category = $('#stock #stock-list .category');
+    // let SList = $('#stock #stock-list');
+    // let StockList = SList.css('flex-direction');
+    // let Category = $('#stock #stock-list .category');
+    //
+    //
+    // $('#stock #stock-list .active').click((event) => {
+    //     if (StockList === 'column') {
+    //
+    //         let list = $(event.target);
+    //         let listCategory = list.find('.category');
+    //         let CategoryActive = list.find('.active');
+    //         let imgArrow = $('#images-arrows #arrow-next1');
+    //
+    //
+    //         Category.css('display', 'block');
+    //         // Category.css('display', 'block').css('order', '2');
+    //         // CategoryActive.css('order', '1');
+    //         $('#images-arrows #arrow-next').css('display', 'none');
+    //         imgArrow.css('display', 'block');
+    //
+    //         // listCategory.click((e) =>  {
+    //         //     let attrCategory = Category.css('display');
+    //         //
+    //         //     if (attrCategory === 'block') {
+    //         //         Category.removeClass('active');
+    //         //         $(e.target).addClass('active');
+    //         //         Category.css('display', 'none').css('order', '2');
+    //         //         $(e.target).css('display', 'block').css('order', '1');
+    //         //         $('#images-arrows #arrow-next').css('display', 'block');
+    //         //         $('#images-arrows #arrow-next1').css('display', 'none');
+    //         //     }
+    //         // });
+    //
+    //         // listCategory.click((e) => {
+    //         //
+    //         // });
+    //     }
+    // });
 
-        if (StockList === 'column') {
-            // for (let i = 0; i < Category.length; i++) {
-            //     if ()
-            Category.click((event) => {
-                alert('1');
-                    let list = $(event.target).parent();
-                    let listCategory = list.find('.category');
-                    let CategoryActive = list.find('.active');
-                    let imgArrow = $('#images-arrows #arrow-next1');
-                    let attrCategory = Category.css('display');
-
-                    Category.css('display', 'block').css('order', '2');
-                    CategoryActive.css('order', '1');
-                    $('#images-arrows #arrow-next').css('display', 'none');
-                    imgArrow.css('display', 'block');
-
-                    // if (attrCategory === 'block') {
-                    //     Category.css('display', 'none');
-                    //     CategoryActive.css('display', 'block');
-                    //     $('#images-arrows #arrow-next').css('display', 'block');
-                    //     $('#images-arrows #arrow-next1').css('display', 'none');
-                    // }
-                    listCategory.click((e) => {
-                        Category.removeClass('active');
-                        $(e.target).addClass('active');
-                        Category.css('display', 'none').css('order', '2');
-                        $(e.target).css('display', 'block').css('order', '1');
-                        $('#images-arrows #arrow-next').css('display', 'block');
-                        $('#images-arrows #arrow-next1').css('display', 'none');
-                    });
-                });
-            }
-
-        // }
 
     $('#images-arrows #arrow-next').click((event) => {
         let list = $(event.target).parent().parent();
